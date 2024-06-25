@@ -9,6 +9,7 @@ local config = {
     node = "#!/usr/bin/env node",
     tsnode = "#!/usr/bin/env -S ts-node --swc",
     deno = "#!/usr/bin/env -S deno run --allow-env --allow-read --allow-run",
+    fish = "#!/usr/bin/env fish",
   },
 }
 
